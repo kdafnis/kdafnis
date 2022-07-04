@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kdafnis
 - 👀 I’m interested in Computer Vision and Machine Learning.
-- 🌱 I’m currently learning on Action Recognition and 3D Pose Estimation.
-- 💞️ I’m looking to collaborate on Computer Vision projects.
+- 🌱 I’m currently learning on (Human) Action Recognition, Video Understanding and Reasoning.
+- 💞️ I am open for collaboration on Computer Vision projects.
 - 📫 How to reach me ...
 
 <!---
